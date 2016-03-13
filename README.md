@@ -1,2 +1,0 @@
-# helloworldsshjava
-firstssh
